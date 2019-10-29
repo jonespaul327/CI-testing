@@ -1,4 +1,4 @@
-languages:
+language:
   python
 
 deploy:
