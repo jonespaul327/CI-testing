@@ -1,1 +1,15 @@
 This will be a log of what I try to make CI work
+
+I added a deploy section to my travis.yml
+    added pages to provider to push results to github
+    skip_cleanup to tue otherwise might delete all files
+    added a github token
+    told it to keep the history
+    And specified the branch it would be used on
+
+Success! I was successful in triggering Travis finally
+
+I am now creating a simple python file to test if Travis will handle it accordingly
+    python file is a hello world file
+    changed branch on the travis config to ContinuousIntegrationTesting
+    (I might remove the branch portion later) 
