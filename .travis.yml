@@ -6,5 +6,3 @@ deploy:
   skip_cleanup: true
   github_token: 22d2f4033f23eea35ab3ff25639238724ffbc22d  # Set in the settings page of your repository, as a secure variable
   keep_history: true
-  on:
-    branch: ContinuosIntegrationTesting
