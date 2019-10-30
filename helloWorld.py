@@ -1,1 +1,0 @@
-printbad("Hello World! This should fail")
