@@ -1,5 +1,8 @@
-#flake8:
-#  enabled: true
+fail_on_violations:
+  enabled: true
+
+flake8:
+  enabled: true
 
 phpcs:
   enabled: true
