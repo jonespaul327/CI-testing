@@ -1,6 +1,6 @@
 list1 = [10,20, 4,45, 99] 
   
-max=max(list1[0],list1[1]) 
+newMax=max(list1[0],list1[1]) 
 secondmax=min(list1[0],list1[1]) 
   
 for i in range(2,len(list1)): 
