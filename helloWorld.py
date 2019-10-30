@@ -1,1 +1,1 @@
-printbad("Hello World!")
+printbad("Hello World! This should fail")
