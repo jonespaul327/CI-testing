@@ -11,4 +11,4 @@ for i in range(2,len(list1)):
         if list1[i]>secondmax: 
             secondmax=list1[i] 
   
-print("Second highest number is : ",str(secondmax))
+print("Second highest number is this: ",str(secondmax))
