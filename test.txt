@@ -16,3 +16,8 @@ I am now creating a simple python file to test if Travis will handle it accordin
 
 Failed The message says it is using Ruby although i have it as python
     moved languages above the deploy
+    had indentation errors and used languages not language
+
+Still failing
+    I am going to try deleting the branch next to see if that helps if nothing else SPEED!
+    I added Different operating systems to see if that was causing it to fail
